@@ -223,15 +223,17 @@ http://localhost:3000
 
 ### Issue Certificate Page
 
-(Add screenshot)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/08527095-5a0c-427c-b0f5-0cd5d9295181" />
+
 
 ### Certificate Verification
 
-(Add screenshot)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/17306e25-e054-4faa-b3ee-5469c04adaf5" />
+
 
 ### Certificates Dashboard
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/177b3375-c3fd-41d1-b072-f286f951cb37" />
 
-(Add screenshot)
 
 ---
 
